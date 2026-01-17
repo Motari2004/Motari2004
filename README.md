@@ -1,17 +1,17 @@
 <h1 align="center">Motari</h1>
 <p align="center">
-Software Developer Focused on Scalable, Reliable, and Maintainable Systems
+Software Engineer Focused on Building Production-Grade, Scalable Systems
 </p>
 
 ---
 
 ## About
-I am **Motari (Motari2004)**, a software developer focused on designing and building systems that are scalable, reliable, maintainable, secure, and performance-driven. I specialize in translating complex requirements into clean, modular, and production-ready solutions.
+I am **Motari (Motari2004)**, a software engineer focused on building production-grade systems that are scalable, reliable, maintainable, and performance-oriented. I design and implement clean, modular architectures that translate complex requirements into robust, real-world applications.
 
-My work emphasizes sound architecture, long-term maintainability, and real-world usability across web and backend systems.
+My work emphasizes system design, long-term maintainability, and practical engineering trade-offs across both frontend and backend systems.
 
-- Focused on **full-stack development** and modern web technologies
-- Experienced in building **modular, fault-tolerant, and extensible applications**
+- Actively developing expertise in **full-stack engineering** and modern web platforms
+- Experienced in building **modular, extensible, and fault-tolerant applications**
 - Strong working knowledge of **JavaScript, Python, Node.js, React, Git, and RESTful APIs**
 
 ---
@@ -43,7 +43,7 @@ My work emphasizes sound architecture, long-term maintainability, and real-world
 **Live Application:** https://scorpioai.vercel.app  
 
 **Overview:**  
-ScorpioAI is a production-ready web application that leverages artificial intelligence to deliver intelligent, secure, and scalable user solutions. The system is designed with a strong emphasis on performance optimization, clean architecture, and long-term scalability.
+ScorpioAI is a production-grade web application that leverages artificial intelligence to deliver intelligent, scalable, and secure user solutions. The system is designed with a strong emphasis on clean architecture, performance optimization, and long-term scalability.
 
 **Core Technologies:**  
 React, Node.js, Tailwind CSS
