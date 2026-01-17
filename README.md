@@ -1,33 +1,35 @@
-<h1 align="center">Hi, I'm Motari</h1>
+<h1 align="center">Motari</h1>
 <p align="center">
-Passionate Software Developer Focused on Building Scalable, Reliable, and Maintainable Systems
+Software Developer Focused on Scalable, Reliable, and Maintainable Systems
 </p>
 
 ---
 
-## About Me
-I’m **Motari (Motari2004)**, a passionate software developer focused on designing and building systems that are scalable, reliable, maintainable, and performance-driven. I enjoy learning new technologies and applying them to real-world challenges through practical projects and open-source contributions.
+## About
+I am **Motari (Motari2004)**, a software developer focused on designing and building systems that are scalable, reliable, maintainable, secure, and performance-driven. I specialize in translating complex requirements into clean, modular, and production-ready solutions.
 
-- Continuously strengthening skills in **full-stack development** and **modern web technologies**
-- Experienced in building **modular, production-ready applications** and contributing to open-source projects
-- Comfortable working with **JavaScript, Python, Node.js, React, Git, and REST APIs**
+My work emphasizes sound architecture, long-term maintainability, and real-world usability across web and backend systems.
+
+- Focused on **full-stack development** and modern web technologies
+- Experienced in building **modular, fault-tolerant, and extensible applications**
+- Strong working knowledge of **JavaScript, Python, Node.js, React, Git, and RESTful APIs**
 
 ---
 
 ## Skills & Technologies
 
-### Languages
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend
+### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Tools
+### Backend & Tooling
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,12 +40,12 @@ I’m **Motari (Motari2004)**, a passionate software developer focused on design
 ## Featured Project
 
 ### ScorpioAI
-**Live Demo:** https://scorpioai.vercel.app  
+**Live Application:** https://scorpioai.vercel.app  
 
-**Description:**  
-ScorpioAI is a modern web application that leverages artificial intelligence to deliver intelligent, secure, and user-focused solutions. The project emphasizes clean architecture, performance optimization, and scalability.
+**Overview:**  
+ScorpioAI is a production-ready web application that leverages artificial intelligence to deliver intelligent, secure, and scalable user solutions. The system is designed with a strong emphasis on performance optimization, clean architecture, and long-term scalability.
 
-**Technologies Used:**  
+**Core Technologies:**  
 React, Node.js, Tailwind CSS
 
 ---
@@ -51,12 +53,12 @@ React, Node.js, Tailwind CSS
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Motari2004&show_icons=true&theme=radical" alt="Motari GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Motari2004&show_icons=true&theme=radical" alt="GitHub Statistics" />
 </p>
 
 ---
 
-## Contact Information
+## Contact
 
 - **Email:** hopefreymosingi1@gmail.com  
 - **Phone:** +254 716 594 620  
@@ -64,5 +66,4 @@ React, Node.js, Tailwind CSS
 
 ---
 
-Thank you for visiting my profile. Feel free to explore my repositories and projects.  
 _Last updated: January 2026_
