@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Motari</h1>
-<p align="center">Passionate Software Developer | Lifelong Learner</p>
+<p align="center">
+Passionate Software Developer Focused on Building Scalable, Reliable, and Maintainable Systems
+</p>
 
 ---
 
 ## About Me
+I’m **Motari (Motari2004)**, a passionate software developer focused on designing and building systems that are scalable, reliable, maintainable, and performance-driven. I enjoy learning new technologies and applying them to real-world challenges through practical projects and open-source contributions.
 
-I’m **Motari (Motari2004)** — a developer focused on creating clean, efficient, and scalable software solutions.  
-I enjoy learning modern technologies and applying them to solve real-world problems.
-
-- Currently deepening expertise in full-stack development and modern web technologies
-- Building web applications and contributing to open-source projects
-- Ask me about: JavaScript, Python, Node.js, React, Git, REST APIs
+- Continuously strengthening skills in **full-stack development** and **modern web technologies**
+- Experienced in building **modular, production-ready applications** and contributing to open-source projects
+- Comfortable working with **JavaScript, Python, Node.js, React, Git, and REST APIs**
 
 ---
 
@@ -37,32 +37,32 @@ I enjoy learning modern technologies and applying them to solve real-world probl
 
 ## Featured Project
 
-### ScorpioAI  
-**https://scorpioai.vercel.app**  
+### ScorpioAI
+**Live Demo:** https://scorpioai.vercel.app  
 
-Modern web application that leverages artificial intelligence to deliver intelligent solutions for users.  
+**Description:**  
+ScorpioAI is a modern web application that leverages artificial intelligence to deliver intelligent, secure, and user-focused solutions. The project emphasizes clean architecture, performance optimization, and scalability.
 
-**Tech stack:** React · Node.js · Tailwind CSS
+**Technologies Used:**  
+React, Node.js, Tailwind CSS
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Motari2004&show_icons=true&theme=radical" alt="Motari’s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Motari2004&show_icons=true&theme=radical" alt="Motari GitHub Statistics" />
 </p>
 
 ---
 
-## Contact
+## Contact Information
 
-- **Email:** [hopefreymosingi1@gmail.com](mailto:hopefreymosingi1@gmail.com)  
+- **Email:** hopefreymosingi1@gmail.com  
 - **Phone:** +254 716 594 620  
-- **Website:** [ScorpioAI](https://scorpioai.vercel.app)
+- **Website:** https://scorpioai.vercel.app  
 
 ---
 
-Thank you for visiting my profile.  
-Feel free to explore my repositories and work.
-
-*(Last updated: January 2026)*
+Thank you for visiting my profile. Feel free to explore my repositories and projects.  
+_Last updated: January 2026_
