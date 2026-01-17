@@ -6,15 +6,13 @@ Software Engineer Focused on Building Production-Grade, Scalable Systems
 ---
 
 ## About
-I am **Motari**, a software engineer focused on building production-grade, scalable systems across both frontend and backend development. My work centers on creating reliable, maintainable applications with clean architecture and strong attention to performance and user experience.
+I am **Motari**, a software engineer working across both frontend and backend development. I focus on creating robust, scalable, and maintainable systems with an emphasis on performance, reliability, and clean architecture.
 
-I have a strong interest in **artificial intelligence**, **automation**, and **modern frontend development**, where I design intuitive interfaces backed by robust and efficient systems. I enjoy solving complex problems by combining thoughtful system design with practical engineering solutions.
+My expertise includes **artificial intelligence**, **automation**, and **modern frontend development**, where I design intuitive interfaces supported by efficient and reliable systems. I enjoy solving complex problems by combining thoughtful system design with practical engineering solutions.
 
-- Experienced in **full-stack development**, spanning frontend and backend systems
-- Actively building solutions in **AI-powered applications and automation**
-- Focused on delivering **clean, scalable, and production-ready software**
-
----
+- Skilled in **full-stack development**, bridging frontend and backend systems
+- Experienced in building **AI-powered applications and automation solutions**
+- Committed to delivering **clean, scalable, and production-ready software**
 
 ## Skills & Technologies
 
