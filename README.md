@@ -6,13 +6,13 @@ Software Engineer Focused on Building Production-Grade, Scalable Systems
 ---
 
 ## About
-I am **Motari (Motari2004)**, a software engineer focused on building production-grade systems that are scalable, reliable, maintainable, and performance-oriented. I design and implement clean, modular architectures that translate complex requirements into robust, real-world applications.
+I am **Motari**, a software engineer focused on building production-grade, scalable systems across both frontend and backend development. My work centers on creating reliable, maintainable applications with clean architecture and strong attention to performance and user experience.
 
-My work emphasizes system design, long-term maintainability, and practical engineering trade-offs across both frontend and backend systems.
+I have a strong interest in **artificial intelligence**, **automation**, and **modern frontend development**, where I design intuitive interfaces backed by robust and efficient systems. I enjoy solving complex problems by combining thoughtful system design with practical engineering solutions.
 
-- Actively developing expertise in **full-stack engineering** and modern web platforms
-- Experienced in building **modular, extensible, and fault-tolerant applications**
-- Strong working knowledge of **JavaScript, Python, Node.js, React, Git, and RESTful APIs**
+- Experienced in **full-stack development**, spanning frontend and backend systems
+- Actively building solutions in **AI-powered applications and automation**
+- Focused on delivering **clean, scalable, and production-ready software**
 
 ---
 
@@ -43,7 +43,7 @@ My work emphasizes system design, long-term maintainability, and practical engin
 **Live Application:** https://scorpioai.vercel.app  
 
 **Overview:**  
-ScorpioAI is a production-grade web application that leverages artificial intelligence to deliver intelligent, scalable, and secure user solutions. The system is designed with a strong emphasis on clean architecture, performance optimization, and long-term scalability.
+ScorpioAI is a production-grade web application that leverages artificial intelligence to deliver intelligent, scalable, and secure user solutions. The system is designed with a strong emphasis on clean architecture, performance optimization, and long-term maintainability.
 
 **Core Technologies:**  
 React, Node.js, Tailwind CSS
