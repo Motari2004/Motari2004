@@ -37,17 +37,25 @@ Work spans **artificial intelligence**, **automation**, and **modern frontend de
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-
 ## Featured Project
-
 ### ScorpioAI
-**Live Application:** https://scorpioai.vercel.app  
 
-**Overview:**  
+**Live Application:** https://scorpioai.vercel.app
+
+**Overview:**
 ScorpioAI is a production-grade web application that leverages artificial intelligence to deliver intelligent, scalable, and secure user solutions. The system is designed with a strong emphasis on clean architecture, performance optimization, and long-term maintainability.
 
-**Core Technologies:**  
-React, Node.js, Tailwind CSS
+**Core Technologies:**
+- React (with TypeScript)
+- JavaScript
+- Tailwind CSS
+- Node.js
+
+**Frontend Stack Details:**
+- Built using React + TypeScript for type-safe, maintainable components
+- Modern JavaScript (ES6+) for core logic and state management
+- Tailwind CSS for responsive, utility-first styling
+- Optimized bundle with Vite for fast development and production builds
 
 ---
 
