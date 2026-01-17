@@ -55,7 +55,7 @@ ScorpioAI is a production-grade web application that leverages artificial intell
 - Built using React + TypeScript for type-safe, maintainable components
 - Modern JavaScript (ES6+) for core logic and state management
 - Tailwind CSS for responsive, utility-first styling
-- Optimized bundle with Vite for fast development and production builds
+- Deployed on Vercel — taking full advantage of Next.js optimizations, edge functions, and fast global CDN delivery
 
 ---
 
